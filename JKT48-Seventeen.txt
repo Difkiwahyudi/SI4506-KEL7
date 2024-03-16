@@ -8,7 +8,11 @@ Sudah ada shopping mall berdiri
 >>>>>>> aa6a8632adefcc5a63cae72875a85e3ec516829f
 Waktu itu selalu seperti tongkat sihir
 <<<<<<< HEAD
+<<<<<<< HEAD
 perdamaian perdamaian
+=======
+Suara ombak dan aroma gelombang
+>>>>>>> aa004a43f0cf471005e3b1602d4ac762e9effd20
 =======
 <<<<<<< HEAD
 
