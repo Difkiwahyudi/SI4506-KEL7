@@ -7,4 +7,13 @@ Sudah ada shopping mall berdiri
 =======
 >>>>>>> aa6a8632adefcc5a63cae72875a85e3ec516829f
 Waktu itu selalu seperti tongkat sihir
+<<<<<<< HEAD
 perdamaian perdamaian
+=======
+<<<<<<< HEAD
+
+APAKEK
+=======
+Walaupun telah mengubah pemandangan
+>>>>>>> ed7af121b801041c766c3ccd34f9e5992ab617b2
+>>>>>>> 413cda2418be63f9376300b1e6d5433d5d8ed546
